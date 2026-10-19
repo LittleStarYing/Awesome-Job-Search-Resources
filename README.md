@@ -53,7 +53,7 @@ For bulk suggestions, feedback, or collaboration, feel free to [open an issue](h
 ## 📬 Stay Updated with Weekly AI Tools List!
 
 Never miss a tutorial! Get weekly insights, updates, and bonus content straight to your inbox.  
-**Join hundreds of AI tool users on Substack.**
+**Join hundreds of AI tool users on Whatsapp Group.**
 
 👉 [**Whatsapp Group**](https://chat.whatsapp.com/L9URPRThBEa7GFl0mlwggg) ✨
 
