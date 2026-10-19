@@ -55,10 +55,7 @@ For bulk suggestions, feedback, or collaboration, feel free to [open an issue](h
 Never miss a tutorial! Get weekly insights, updates, and bonus content straight to your inbox.  
 **Join hundreds of AI tool users on Substack.**
 
-👉 [**Subscribe to Our Coursesteach Newsletter**](https://substack.com/@coursesteach) ✨
-
-[![Subscribe on Substack](https://img.shields.io/badge/Subscribe-Substack-orange?style=for-the-badge&logo=substack)](https://substack.com/@coursesteach)
-
+👉 [**Whatsapp Group**](https://chat.whatsapp.com/L9URPRThBEa7GFl0mlwggg) ✨
 
 </p>
 
