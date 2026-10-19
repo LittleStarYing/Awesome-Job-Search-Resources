@@ -78,6 +78,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 | [**Canva Resume Builder**](https://www.canva.com/resumes/) | Professional resume templates. | Resume, Design, Free |
 | [**CoverDoc.ai**](https://coverdoc.ai/) | Generates personalized cover letters. | Cover Letter, AI, Free |
 | [**Overleaf**](https://www.overleaf.com/) | Online LaTeX editor great for building clean, professional resumes and cover letters. | Resume, Cover Letter, LaTeX, Free/Paid |
+| [**CareJobs AI career tools**](https://carejobs.now/tools) | Free AI cover letter generator, resume bullet writer, interview coach and job posting decoder for healthcare workers. | Resume, Cover Letter, AI, Free |
 </details>
 
 <details> 
