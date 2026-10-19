@@ -74,5 +74,3 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 
 ---
 
-
-## Contents
