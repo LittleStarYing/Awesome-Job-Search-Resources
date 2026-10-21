@@ -215,6 +215,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 | [**Talent**](https://au.talent.com/jobs?k=Postdoctoral+Fellow&l=Australia&date=3&id=8fdb8505dce2) | Find postdoc and other job austrial | austrial |
 | [**metacareers**](https://www.metacareers.com/jobs?q=Postdoc) | Qatar National Research Fund fellowships. | International Funding |
 | [**scholarshipdb.net**](https://scholarshipdb.net/scholarships-in-Germany?q=Postdoctoral%20Computer%20Science&listed=Last%207%20days) | Qatar National Research Fund fellowships. | International Funding |
+| [**UTSC Postdoctoral Fellowship Program**](https://utsc.utoronto.ca/grad-edu/utsc-postdoctoral-fellowship-program) | The University of Toronto Scarborough (UTSC) Postdoctoral Fellowship Program (UTSC PFP) is designed to provide outstanding recent doctoral students with advanced training in their field of study. | International Funding |
 </details>
 
 <details> 
