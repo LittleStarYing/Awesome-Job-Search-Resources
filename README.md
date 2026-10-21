@@ -286,6 +286,15 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 
 </details>
 
+<details> 
+<summary> <h2>🔍  Job Searching Agents </h2> </summary>
+
+| Title/Link | Description | Tags |Country|Feedback|
+|---|---|---|---|---|
+| [**JobsDirect-MCP**]([https://jaindl.substack.com/p/5-prompts-to-10x-your-linkedin-profile](https://github.com/netizen4-bit/jobs-direct)) | A local Model Context Protocol (MCP) tool for Agentic Workflows that automates multi-portal job search, 4-tier ATS fit evaluation, resume tailoring, cover letter generation, and application preparation. Built for job seekers, career switchers, and professionals to run completely locally and privately. | Agent,AI |Pakistan|
+
+</details>
+
 
 ## 📬 Stay Updated with Job Search Tips!
 
