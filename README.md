@@ -241,6 +241,39 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 | [**AI Data House SMC (pvt) Limited**](https://jobs.uaeu.ac.ae/) | Find job in UAE University. | Islamabad |--- |
 | [**Ajman University**](https://iabeey.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/jobs) | Find job in Ajman University. | Uman |--- |
 
+### 🌍 Remote AI/ML Jobs for Freshers & Junior Engineers
+
+> Source: [AmanXAI – Remote AI/ML Jobs for Freshers and Junior Engineers (22 Oct 2026)](https://amanxai.com/2026/10/22/remote-ai-ml-jobs-for-freshers-and-junior-engineers/). Openings close quickly, so check each link before applying.
+
+## 📚-**INDIA**
+
+| Title/Link | Description | Tags |Country|Feedback|
+|---|---|---|---|---|
+| [**GROWAI Edtech**](https://www.linkedin.com/jobs/view/4475688734) | LLM Engineering Trainer at an Indian edtech offering affordable, job-ready AI and tech courses. | Jobs, AI/ML, LLM, Remote |🇮🇳 India| |
+| [**Alignerr**](https://www.alignerr.com/jobs/7fd09344-a633-4f05-ad55-b02b48257877) | ML Engineer at Labelbox's expert network, training and evaluating AI models (remote, flexible). | Jobs, AI/ML, Remote |🇮🇳 India| |
+| [**Sony Research**](https://www.linkedin.com/jobs/view/4478028638) | LLM Consultant at Sony's AI research arm, working on large language model projects. | Jobs, AI/ML, LLM, Remote |🇮🇳 India| |
+| [**Greyhorse**](https://www.linkedin.com/jobs/view/4481269881) | AI Engineer (remote, contract) at Greyhorse Clearinghouse. ⚠️ Posting closed — no longer accepting applications. | Jobs, AI/ML, Remote |🇮🇳 India| |
+| [**Unloq**](https://www.linkedin.com/jobs/view/4482093994) | AI Engineer on the Decision Engine team of a UK startup building AI that predicts business outcomes (remote, full-time). | Jobs, AI/ML, Remote |🇮🇳 India| |
+
+## 📚-**USA**
+
+| Title/Link | Description | Tags |Country|Feedback|
+|---|---|---|---|---|
+| [**Makai Labs**](https://jobs.ashbyhq.com/makai-labs/a350e730-8d80-4528-9d41-497acbd01223/application) | AI Engineer at a New York startup building AI that learns how people work and automates repetitive tasks. | Jobs, AI/ML, Remote |🇺🇸 USA| |
+| [**Alignerr**](https://www.alignerr.com/jobs/6f6fe724-c4bb-45ae-86c9-b8e590fc5e09) | ML Engineer at Labelbox's expert network, training and evaluating AI models (remote, flexible). | Jobs, AI/ML, Remote |🇺🇸 USA| |
+| [**Hugging Face**](https://www.linkedin.com/jobs/view/4420973678) | ML Engineer at the leading open-source AI platform for models, datasets and ML tooling. | Jobs, AI/ML, Open Source, Remote |🇺🇸 USA| |
+| [**BioRender**](https://jobs.gem.com/biorender/am9icG9zdDqL7y2S4zWTxpVfMnLT8ae_) | ML Engineer at a science-illustration platform that helps researchers create figures for papers and talks. | Jobs, AI/ML, Remote |🇺🇸 USA| |
+| [**Pinecone**](https://jobs.ashbyhq.com/pinecone/edf2a2a5-64e2-45b8-9f2e-4f354af350b8/application) | Applied AI Engineer at the vector database company powering search and RAG for AI apps. | Jobs, AI/ML, Vector DB, Remote |🇺🇸 USA| |
+
+## 📚-**UK**
+
+| Title/Link | Description | Tags |Country|Feedback|
+|---|---|---|---|---|
+| [**Alignerr**](https://www.alignerr.com/jobs/d3ea56e8-dd08-48c6-8a75-037661dab85e) | ML Engineer at Labelbox's expert network, training and evaluating AI models (remote, flexible). | Jobs, AI/ML, Remote |🇬🇧 UK| |
+| [**Ageas**](https://careers.ageas.co.uk/uk/en/job/AFEAGEGBREQ3956EXTERNALENUK/AI-Engineer) | AI Engineer at a major UK insurer, applying AI to insurance products and operations. | Jobs, AI/ML, Insurance, Remote |🇬🇧 UK| |
+| [**StackAdapt**](https://www.linkedin.com/jobs/view/4479549705) | ML Engineer at a programmatic advertising platform using ML for ad targeting and bidding. | Jobs, AI/ML, AdTech, Remote |🇬🇧 UK| |
+| [**Verian Group**](https://ppmi.bamboohr.com/careers/150) | Junior AI Engineer at a research and evaluation consultancy serving public-sector clients. | Jobs, AI/ML, Junior, Remote |🇬🇧 UK| |
+| [**Prima**](https://jobs.eu.lever.co/prima/f6d70fbf-e7cf-4310-bb6c-81c01bac9366/apply) | ML Engineer at a digital car-insurance company using ML for pricing and customer experience. | Jobs, AI/ML, Remote |🇬🇧 UK| |
 
 </details>
 
