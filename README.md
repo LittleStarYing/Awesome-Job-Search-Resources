@@ -326,7 +326,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 
 | Title/Link | Description | Tags |Country|Feedback|
 |---|---|---|---|---|
-| [**JobsDirect-MCP**]([https://jaindl.substack.com/p/5-prompts-to-10x-your-linkedin-profile](https://github.com/netizen4-bit/jobs-direct)) | A local Model Context Protocol (MCP) tool for Agentic Workflows that automates multi-portal job search, 4-tier ATS fit evaluation, resume tailoring, cover letter generation, and application preparation. Built for job seekers, career switchers, and professionals to run completely locally and privately. | Agent,AI |Pakistan|
+| [**JobsDirect-MCP**](https://jaindl.substack.com/p/5-prompts-to-10x-your-linkedin-profile](https://github.com/netizen4-bit/jobs-direct)| A local Model Context Protocol (MCP) tool for Agentic Workflows that automates multi-portal job search, 4-tier ATS fit evaluation, resume tailoring, cover letter generation, and application preparation. Built for job seekers, career switchers, and professionals to run completely locally and privately. | Agent,AI |Pakistan|
 | [**NeverApply**](https://neverapply.co/) |AI job-search agent that matches jobs, tailors resumes and applies with the user's approval, to the Jobs Tools table. Free plan available. | Agent,AI |Pakistan|
 
 
