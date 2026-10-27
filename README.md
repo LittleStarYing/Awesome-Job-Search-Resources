@@ -76,6 +76,14 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 ## Contents
 
 <details> 
+<summary> <h2>📄 To Do List </h2> </summary>
+
+| Title/Link | Description | Tags |
+|---|---|---|
+| [**5 Prompts To 10x Your LinkedIn Profile**](https://jaindl.substack.com/p/5-prompts-to-10x-your-linkedin-profile) | Create Prompt Section and also create md for each prompt type| Prompt |
+</details>
+
+<details> 
 <summary> <h2>📄 Resume & Cover Letter Tools </h2> </summary>
 
 | Title/Link | Description | Tags |
